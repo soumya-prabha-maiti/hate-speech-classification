@@ -13,7 +13,7 @@ license: mit
 # Hate Speech Classification
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/soumyaprabhamaiti/hate_speech_classifier)
 
-This is a web app that classifies the input text as hate speech or not. The app uses a LSTM model trained on the [Hate Speech and Offensive Language dataset](https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset) and [Twitter hate speech](https://www.kaggle.com/datasets/vkrahul/twitter-hate-speech) dataset. 
+A project to classify the input text as hate speech or not using an LSTM model trained on the [Hate Speech and Offensive Language dataset](https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset) and [Twitter hate speech](https://www.kaggle.com/datasets/vkrahul/twitter-hate-speech) dataset from Kaggle.
 
 ## Demo
 The deployed version of this project can be accessed at [Hugging Face Spaces](https://huggingface.co/spaces/soumyaprabhamaiti/hate_speech_classifier). A demo of the app is shown below:
